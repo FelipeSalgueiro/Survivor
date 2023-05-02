@@ -6,6 +6,7 @@ Ao abrir o executável a primeira tela será o título do jogo com duas opções
 ╭─━━━━━━━━━━━━─╮
 |   Survivor   |
 ╰─━━━━━━━━━━━━─╯
+
    1 - Jogar
    2 - Sair
   
